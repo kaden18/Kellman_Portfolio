@@ -1,0 +1,133 @@
+/* Color Scheme
+
+*/
+
+
+/***Portfolio - Medium - General***/
+
+
+body {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+    font-family:Arial, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: left;
+}
+
+hr {
+    width: 95%;
+    opacity: .6;
+    margin: 0 auto 0 auto;
+}
+
+
+/***Portfolio - Medium - Navigation***/
+
+
+nav.navbar {
+    display: block;
+    width: 100%;
+    margin: .5em auto;
+}
+
+nav ul.nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li.nav-li{
+    padding: .5em 1em;
+    margin: auto;
+    width: 90%;
+}
+
+nav ul li.nav-li:hover {
+    background-color: #666666;
+}
+
+nav ul li.nav-li#active{
+    background-color: #999999;
+}
+
+nav ul li.nav-li#active:last-child {
+    border-bottom: none;
+}
+
+nav ul li a.nav-a {
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+
+/***Portfolio - Medium - Header***/
+
+
+h1.intro {
+    text-align:center;
+}
+
+
+/***Portfolio - Medium - Content - Text***/
+
+
+p.content-text {
+    padding: 0 1.5em 0 1.5em;
+}
+
+p a.contact-email {
+    color: #FFFFFF;
+}
+
+
+/***Portfolio - Medium - Resume - Table***/
+
+
+table.resume-table {
+    width: 20em;
+    margin: 0 auto;
+}
+
+table.resume-table tr td {
+	padding: .5em 0 0 1.5em;
+}
+
+
+/***Portfolio - Medium - About - Table***/
+
+
+table.about-table {
+	width: 90%;
+	margin: 2em auto 2em auto;
+    border: solid 1px #FFFFFF;
+    border-radius: 2em;
+    padding: 1em 0;
+}
+
+table caption.about-table-caption {
+    margin: 0 0 .5em 0;
+    font-size: 1.25em;
+}
+
+table tr td.about-table-td {
+    text-align: center;
+    padding: .25em 0;
+}
+
+table tr td.about-table-music {
+    text-align: left;
+}
+
+
+/***Portfolio - Medium - Footer***/
+
+
+footer p {
+    text-align: center;
+}
+*/

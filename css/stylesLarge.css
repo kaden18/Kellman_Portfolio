@@ -1,0 +1,73 @@
+/* NOTES */
+
+/*** Portfolio - Large - General ***/
+body {
+    background-image: url("../assets/image/dragons.jpg");
+    color: #FFFFFF;
+    font-family: Verdana;
+}
+
+div#container {
+    max-width: 90%;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 1em 2em .25em 2em;
+    border-radius: 2.5em;
+}
+
+h1.intro {
+    text-align: center;
+}
+
+p.content-text {
+    text-align: center;
+    line-height: 1em;
+}
+
+footer {
+    text-align: center;
+}
+
+/*** Portfolio - Large - Naviagtion Bar ***/
+
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0 auto;
+    overflow: hidden;
+    background-color: none;
+}
+
+li.nav-li {
+    float: left;
+}
+
+li.nav-li#active {
+  background-color: #666666;
+	color: #000000;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 1.5em 2.5em;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #999999;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+/*** Portfolio - Large - Resume Table ***/
+
+table {
+	margin: 0 auto;
+
+}
+
+/*** Portfolio - Large - General ***/
