@@ -9,6 +9,7 @@ function myFunction()
       document.body.style.color = '#000000';
       document.getElementById('nav').style.backgroundColor = 'rgba(0, 0, 0, .75)';
       document.getElementById('email').style.color = 'rgb(0, 0, 0)';
+      document.getElementById('mayLink').style.color = 'rgb(0, 0, 0)';
   }
   else {}
 }
